@@ -218,7 +218,6 @@ nav a:hover::after {
 }
 
 
-
 /* Main Content Sections */
 section {
     padding: var(--spacing-lg) 0;
@@ -248,62 +247,6 @@ section:last-child {
     background-color: var(--primary-black);
     transition: background-color 0.3s ease;
 }
-
-/* Experience Section */
-/* .experience-item {
-    margin-bottom: var(--spacing-md);
-    padding-bottom: var(--spacing-md);
-    border-bottom: 1px solid var(--light-gray);
-    transition: border-color 0.3s ease;
-}
-
-.experience-item:last-child {
-    border-bottom: none;
-    margin-bottom: 0;
-    padding-bottom: 0;
-}
-
-.experience-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    margin-bottom: var(--spacing-sm);
-    flex-wrap: wrap;
-}
-
-.experience-header h3 {
-    font-size: 1.3rem;
-    font-weight: 600;
-}
-
-.experience-date {
-    color: var(--accent-gray);
-    font-size: 0.95rem;
-    font-weight: 500;
-    background-color: var(--secondary-white);
-    padding: 4px 10px;
-    border-radius: var(--border-radius);
-    transition: background-color 0.3s ease, color 0.3s ease;
-}
-
-.experience-company {
-    font-size: 1.1rem;
-    color: var(--medium-gray);
-    margin-bottom: var(--spacing-sm);
-}
-
-.experience-details {
-    color: var(--accent-gray);
-}
-
-.experience-details ul {
-    list-style-position: inside;
-    margin-top: var(--spacing-sm);
-}
-
-.experience-details li {
-    margin-bottom: var(--spacing-xs);
-} */
 
 /* Timeline Experience */
 .timeline {
@@ -611,24 +554,6 @@ footer {
     margin: 0 5px;
 }
 
-/* .social-links {
-    display: flex;
-    justify-content: center;
-    gap: var(--spacing-md);
-    margin-top: var(--spacing-md);
-    margin-bottom: var(--spacing-lg);
-}
-
-.social-links a {
-    color: var(--primary-white);
-    font-size: 1.5rem;
-    transition: var(--transition);
-}
-
-.social-links a:hover {
-    color: var(--medium-gray);
-    transform: translateY(-3px);
-} */
 
 .download-btn {
     background-color: var(--primary-white);
